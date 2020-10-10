@@ -2,7 +2,7 @@
 /*
  The name of this site that we are current on.
 */
-const THIS_SITE_DOMAIN = 'http://your.site.domain';
+const THIS_SITE_DOMAIN = 'https://prefects5.com';
 
 module.exports = {
   siteMetadata: {
